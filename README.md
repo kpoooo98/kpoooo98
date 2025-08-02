@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Krishn Priya (KPojha)</h1>
+<h1 align="center">Hi 👋, I'm Krishn Priya (Kpojha)</h1>
 <h3 align="center">Passionate about building scalable, user-friendly applications with clean code and efficient architecture.</h3>
 
 
